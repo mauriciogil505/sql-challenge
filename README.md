@@ -1,6 +1,6 @@
 # Employee SQL Analysis
 Project Overview
-This project involves creating and analyzing a relational database for employee data using PostgreSQL. The tasks include defining table schemas, importing CSV data into SQL tables, and performing various SQL queries to extract insights about the employees and departments.
+- This project involves creating and analyzing a relational database for employee data using PostgreSQL. The tasks include defining table schemas, importing CSV data into SQL tables, and performing various SQL queries to extract insights about the employees and departments.
 
 ## Project Objectives
 Create table schemas for each CSV file.
